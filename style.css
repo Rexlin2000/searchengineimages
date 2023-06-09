@@ -29,7 +29,7 @@ h1{
 }
 @font-palette-values --Purples {
     font-family: Rocher;
-    base-palette: 6;
+    base-palette: 3;
 }
 .purples {
     font-palette: --Purples;
